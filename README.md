@@ -2,8 +2,7 @@
 ### Submission by Omar Zu'bi
 
 ## Project Overview
-Evidence of academic dishonesty in testing scores were found for Thomas High School 9th grade students and has prompted a analysis of the reassessed scores. The analysis compares the scores for the 
-
+Evidence of academic dishonesty in testing scores were found for Thomas High School 9th grade students and has prompted a analysis of the reassessed scores. The math and reading scores for Thomas High School 9th grader's were replaced with NaNs while keeping the rest of the school's data intact. A school district analysis was conducted once again and a writeup describing how these changes affected the overall analysis are provided in the report. 
 
 ## Resources Included in Repository
 Software:
@@ -47,6 +46,8 @@ Reassessed:
 
 
 * How does replacing the ninth-grade scores affect the following:
+The images provided below show the effect of the changes made to the data. 
+
   1) Math and reading scores by grade?
  
   <img src="Images/7.png"> 
