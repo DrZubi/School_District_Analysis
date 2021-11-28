@@ -10,19 +10,19 @@ Software:
 * Python 3.7.10
 * Jupyter Notebook
 
-Files Incldued sources: 
+Files Included sources: 
 * [school_complete.csv](Resources/school_complete.csv) 
 * [students_complete.csv](Resources/students_complete.csv)
 
 ## Results
 
 * How is the district summary affected?
-The reassesment has proven that Thomas High School performance in all averages (math, reading, and overall) has decreased by a small margin (0.1% - 0.3%). This indicates that the ninth grade scores of Thomas High School were close to the school's average, and by removing the compromised scores, had minimal affect on the school's overall performance.
+The reassessment has proven that Thomas High School performance in all averages (math, reading, and overall) has decreased by a small margin (0.1% - 0.3%). This indicates that the ninth-grade scores of Thomas High School were close to the school's average, and by removing the compromised scores, had minimal effect on the school's overall performance.
 
 Original:
 <img src="Images/1.png"> 
 
-Reassesed: 
+Reassessed: 
 <img src="Images/2.png"> 
 
 
@@ -32,7 +32,7 @@ After the removal of the compromised scores, only small margins of changes can b
 Original:
 <img src="Images/3.png"> 
 
-Reassesed: 
+Reassessed: 
 <img src="Images/4.png"> 
 
 
@@ -65,7 +65,7 @@ Reassessed:
  
  
 ## Summary
-The reassesment of the reading and math scores for the ninth grader's at Thomas High School has shown that the overall performance of the school has decreased, but only by a small margin!
+The reassessment of the reading and math scores for the ninth graders at Thomas High School has shown that the overall performance of the school has decreased, but only by a small margin!
 * the average math score dropped by 0.07
 * percent of students who passed math reduced by 0.09%
 * percent of students who passed reading reduced by 0.29%
