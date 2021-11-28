@@ -49,7 +49,7 @@ Reassessed:
 * How does replacing the ninth-grade scores affect the following:
   1) Math and reading scores by grade?
  
-  <img src="Images/7.PNG"> 
+  <img src="Images/7.png"> 
  
   2) Scores by school spending?
   
